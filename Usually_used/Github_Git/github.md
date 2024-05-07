@@ -4,6 +4,10 @@
 
 `git init`
 
+改变分支
+
+`git branch -m master main`
+
 添加文件到仓库：使用以下命令将项目目录中的所有文件添加到仓库：
 
 `git add .`
@@ -20,4 +24,4 @@
 
 推送更改到GitHub：使用以下命令将你的更改推送到GitHub仓库：
 
-`git push -u origin master`
+`git push -u origin main`
